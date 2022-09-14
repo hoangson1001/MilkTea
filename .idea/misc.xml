@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Thiết kế androi/DATraSua/TraSua/app/src/main/res/layout/addnhanvien_layout.xml" value="0.10092592592592593" />
+        <entry key="..\:/TraSuaAnVat/TraSuaAnVat/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.25" />
+        <entry key="..\:/TraSuaAnVat/TraSuaAnVat/app/src/main/res/drawable/circle_drawable.xml" value="0.25" />
+        <entry key="..\:/TraSuaAnVat/TraSuaAnVat/app/src/main/res/drawable/corner_border_black.xml" value="0.25" />
+        <entry key="..\:/TraSuaAnVat/TraSuaAnVat/app/src/main/res/drawable/corner_border_primary.xml" value="0.25" />
+        <entry key="..\:/TraSuaAnVat/TraSuaAnVat/app/src/main/res/drawable/ic_baseline_account_circle_24.xml" value="0.25" />
+        <entry key="..\:/TraSuaAnVat/TraSuaAnVat/app/src/main/res/drawable/ic_baseline_storage_24.xml" value="0.25" />
+        <entry key="..\:/TraSuaAnVat/TraSuaAnVat/app/src/main/res/drawable/ic_launcher_background.xml" value="0.25" />
+        <entry key="..\:/TraSuaAnVat/TraSuaAnVat/app/src/main/res/drawable/round_corner_menutext.xml" value="0.25" />
+        <entry key="..\:/TraSuaAnVat/TraSuaAnVat/app/src/main/res/drawable/round_corner_textview.xml" value="0.25" />
+        <entry key="..\:/TraSuaAnVat/TraSuaAnVat/app/src/main/res/font/baloo.xml" value="0.1578125" />
+        <entry key="..\:/TraSuaAnVat/TraSuaAnVat/app/src/main/res/font/bangers.xml" value="0.1578125" />
+        <entry key="..\:/TraSuaAnVat/TraSuaAnVat/app/src/main/res/layout/addbang_layout.xml" value="0.2" />
+        <entry key="..\:/TraSuaAnVat/TraSuaAnVat/app/src/main/res/layout/addcategory_layout.xml" value="0.275" />
+        <entry key="..\:/TraSuaAnVat/TraSuaAnVat/app/src/main/res/layout/addnhanvien_layout.xml" value="0.275" />
+        <entry key="..\:/TraSuaAnVat/TraSuaAnVat/app/src/main/res/layout/addtable_layout.xml" value="0.275" />
+        <entry key="..\:/TraSuaAnVat/TraSuaAnVat/app/src/main/res/layout/amount_menu_layout.xml" value="0.275" />
+        <entry key="..\:/TraSuaAnVat/TraSuaAnVat/app/src/main/res/layout/chinhsuaban_layout.xml" value="0.275" />
+        <entry key="..\:/TraSuaAnVat/TraSuaAnVat/app/src/main/res/layout/custom_layout_bang.xml" value="0.275" />
+        <entry key="..\:/TraSuaAnVat/TraSuaAnVat/app/src/main/res/layout/custom_layout_displaycategory.xml" value="0.264" />
+        <entry key="..\:/TraSuaAnVat/TraSuaAnVat/app/src/main/res/layout/custom_layout_displaymenu.xml" value="0.275" />
+        <entry key="..\:/TraSuaAnVat/TraSuaAnVat/app/src/main/res/layout/custom_layout_displaystaff.xml" value="0.275" />
+        <entry key="..\:/TraSuaAnVat/TraSuaAnVat/app/src/main/res/layout/custom_layout_menu.xml" value="0.275" />
+        <entry key="..\:/TraSuaAnVat/TraSuaAnVat/app/src/main/res/layout/custom_layout_nhanvien.xml" value="0.275" />
+        <entry key="..\:/TraSuaAnVat/TraSuaAnVat/app/src/main/res/layout/custom_layout_paymentmenu.xml" value="0.275" />
+        <entry key="..\:/TraSuaAnVat/TraSuaAnVat/app/src/main/res/layout/custom_layout_thanhtoan.xml" value="0.275" />
+        <entry key="..\:/TraSuaAnVat/TraSuaAnVat/app/src/main/res/layout/custom_layout_theloai.xml" value="0.275" />
+        <entry key="..\:/TraSuaAnVat/TraSuaAnVat/app/src/main/res/layout/custom_layout_thongke.xml" value="0.275" />
+        <entry key="..\:/TraSuaAnVat/TraSuaAnVat/app/src/main/res/layout/dangky_layout.xml" value="0.275" />
+        <entry key="..\:/TraSuaAnVat/TraSuaAnVat/app/src/main/res/layout/detailstatistic_layout.xml" value="0.275" />
+        <entry key="..\:/TraSuaAnVat/TraSuaAnVat/app/src/main/res/layout/display_home_layout.xml" value="0.275" />
+        <entry key="..\:/TraSuaAnVat/TraSuaAnVat/app/src/main/res/layout/display_menu_layout.xml" value="0.275" />
+        <entry key="..\:/TraSuaAnVat/TraSuaAnVat/app/src/main/res/layout/displaycategory_layout.xml" value="0.275" />
+        <entry key="..\:/TraSuaAnVat/TraSuaAnVat/app/src/main/res/layout/displaytable_layout.xml" value="0.275" />
+        <entry key="..\:/TraSuaAnVat/TraSuaAnVat/app/src/main/res/layout/home_layout.xml" value="0.275" />
+        <entry key="..\:/TraSuaAnVat/TraSuaAnVat/app/src/main/res/layout/login_layout.xml" value="0.275" />
+        <entry key="..\:/TraSuaAnVat/TraSuaAnVat/app/src/main/res/layout/map_layout.xml" value="0.275" />
+        <entry key="..\:/TraSuaAnVat/TraSuaAnVat/app/src/main/res/layout/menu_layout.xml" value="0.275" />
+        <entry key="..\:/TraSuaAnVat/TraSuaAnVat/app/src/main/res/layout/menu_navigation_header.xml" value="0.275" />
+        <entry key="..\:/TraSuaAnVat/TraSuaAnVat/app/src/main/res/layout/register_layout.xml" value="0.275" />
+        <entry key="..\:/TraSuaAnVat/TraSuaAnVat/app/src/main/res/layout/splash_layout.xml" value="0.275" />
+        <entry key="..\:/TraSuaAnVat/TraSuaAnVat/app/src/main/res/layout/thanhtoan_layout.xml" value="0.275" />
+        <entry key="..\:/TraSuaAnVat/TraSuaAnVat/app/src/main/res/layout/theloai_layout.xml" value="0.275" />
+        <entry key="..\:/TraSuaAnVat/TraSuaAnVat/app/src/main/res/layout/themloai_layout.xml" value="0.24444444444444444" />
+        <entry key="..\:/TraSuaAnVat/TraSuaAnVat/app/src/main/res/layout/themmenu_layout.xml" value="0.275" />
+        <entry key="..\:/TraSuaAnVat/TraSuaAnVat/app/src/main/res/layout/thongke_layout.xml" value="0.275" />
+        <entry key="..\:/TraSuaAnVat/TraSuaAnVat/app/src/main/res/layout/welcome_layout.xml" value="0.275" />
+        <entry key="..\:/TraSuaAnVat/TraSuaAnVat/app/src/main/res/layout/xacnhandk_layout.xml" value="0.275" />
+        <entry key="..\:/TraSuaAnVat/TraSuaAnVat/app/src/main/res/layout/xemban_layout.xml" value="0.275" />
+        <entry key="..\:/TraSuaAnVat/TraSuaAnVat/app/src/main/res/layout/xemnhanvien_layout.xml" value="0.275" />
+        <entry key="..\:/TraSuaAnVat/TraSuaAnVat/app/src/main/res/layout/xemthongke_layout.xml" value="0.275" />
+        <entry key="..\:/TraSuaAnVat/TraSuaAnVat/app/src/main/res/menu/edit_context_menu.xml" value="0.12760416666666666" />
+        <entry key="..\:/TraSuaAnVat/TraSuaAnVat/app/src/main/res/menu/item_menu.xml" value="0.12760416666666666" />
+        <entry key="..\:/TraSuaAnVat/TraSuaAnVat/app/src/main/res/menu/main_menu_navigation.xml" value="0.12760416666666666" />
+        <entry key="..\:/Users/NEIL/Desktop/Qlnhahang/QLnhahang/app/src/main/res/drawable/ic_baseline_account_circle_24.xml" value="0.2546875" />
+        <entry key="..\:/Users/NEIL/Desktop/Qlnhahang/QLnhahang/app/src/main/res/drawable/ic_baseline_add_circle_24.xml" value="0.2546875" />
+        <entry key="..\:/Users/NEIL/Desktop/Qlnhahang/QLnhahang/app/src/main/res/layout/addcategory_layout.xml" value="0.4" />
+        <entry key="..\:/Users/NEIL/Desktop/Qlnhahang/QLnhahang/app/src/main/res/layout/addmenu_layout.xml" value="0.264" />
+        <entry key="..\:/Users/NEIL/Desktop/Qlnhahang/QLnhahang/app/src/main/res/layout/addstaff_layout.xml" value="0.14764492753623187" />
+        <entry key="..\:/Users/NEIL/Desktop/Qlnhahang/QLnhahang/app/src/main/res/layout/addtable_layout.xml" value="0.14764492753623187" />
+        <entry key="..\:/Users/NEIL/Desktop/Qlnhahang/QLnhahang/app/src/main/res/layout/amount_menu_layout.xml" value="0.14764492753623187" />
+        <entry key="..\:/Users/NEIL/Desktop/Qlnhahang/QLnhahang/app/src/main/res/layout/custom_layout_displaycategory.xml" value="0.14764492753623187" />
+        <entry key="..\:/Users/NEIL/Desktop/Qlnhahang/QLnhahang/app/src/main/res/layout/custom_layout_displaymenu.xml" value="0.14764492753623187" />
+        <entry key="..\:/Users/NEIL/Desktop/Qlnhahang/QLnhahang/app/src/main/res/layout/custom_layout_displaystaff.xml" value="0.14764492753623187" />
+        <entry key="..\:/Users/NEIL/Desktop/Qlnhahang/QLnhahang/app/src/main/res/layout/custom_layout_displaystatistic.xml" value="0.14764492753623187" />
+        <entry key="..\:/Users/NEIL/Desktop/Qlnhahang/QLnhahang/app/src/main/res/layout/custom_layout_displaytable.xml" value="0.4" />
+        <entry key="..\:/Users/NEIL/Desktop/Qlnhahang/QLnhahang/app/src/main/res/layout/custom_layout_paymentmenu.xml" value="0.14764492753623187" />
+        <entry key="..\:/Users/NEIL/Desktop/Qlnhahang/QLnhahang/app/src/main/res/layout/detailstatistic_layout.xml" value="0.14764492753623187" />
+        <entry key="..\:/Users/NEIL/Desktop/Qlnhahang/QLnhahang/app/src/main/res/layout/displaycategory_layout.xml" value="0.14764492753623187" />
+        <entry key="..\:/Users/NEIL/Desktop/Qlnhahang/QLnhahang/app/src/main/res/layout/displayhome_layout.xml" value="0.264" />
+        <entry key="..\:/Users/NEIL/Desktop/Qlnhahang/QLnhahang/app/src/main/res/layout/displaymenu_layout.xml" value="0.14764492753623187" />
+        <entry key="..\:/Users/NEIL/Desktop/Qlnhahang/QLnhahang/app/src/main/res/layout/displaystaff_layout.xml" value="0.14764492753623187" />
+        <entry key="..\:/Users/NEIL/Desktop/Qlnhahang/QLnhahang/app/src/main/res/layout/displaystatistic_layout.xml" value="0.14764492753623187" />
+        <entry key="..\:/Users/NEIL/Desktop/Qlnhahang/QLnhahang/app/src/main/res/layout/displaytable_layout.xml" value="0.14764492753623187" />
+        <entry key="..\:/Users/NEIL/Desktop/Qlnhahang/QLnhahang/app/src/main/res/layout/edittable_layout.xml" value="0.14764492753623187" />
+        <entry key="..\:/Users/NEIL/Desktop/Qlnhahang/QLnhahang/app/src/main/res/layout/home_layout.xml" value="0.4" />
+        <entry key="..\:/Users/NEIL/Desktop/Qlnhahang/QLnhahang/app/src/main/res/layout/login_layout.xml" value="0.14764492753623187" />
+        <entry key="..\:/Users/NEIL/Desktop/Qlnhahang/QLnhahang/app/src/main/res/layout/menu_navigation_header.xml" value="0.14764492753623187" />
+        <entry key="..\:/Users/NEIL/Desktop/Qlnhahang/QLnhahang/app/src/main/res/layout/payment_layout.xml" value="0.14764492753623187" />
+        <entry key="..\:/Users/NEIL/Desktop/Qlnhahang/QLnhahang/app/src/main/res/layout/register2nd_layout.xml" value="0.14764492753623187" />
+        <entry key="..\:/Users/NEIL/Desktop/Qlnhahang/QLnhahang/app/src/main/res/layout/register_layout.xml" value="0.14764492753623187" />
+        <entry key="..\:/Users/NEIL/Desktop/Qlnhahang/QLnhahang/app/src/main/res/layout/splash_layout.xml" value="0.176" />
+        <entry key="..\:/Users/NEIL/Desktop/Qlnhahang/QLnhahang/app/src/main/res/layout/welcome_layout.xml" value="0.4" />
+        <entry key="..\:/Users/NEIL/Documents/Nhahangnonla/Nhahangnonla/app/src/main/res/layout/addcategory_layout.xml" value="0.19927536231884058" />
+        <entry key="..\:/Users/NEIL/Documents/Nhahangnonla/Nhahangnonla/app/src/main/res/layout/addmenu_layout.xml" value="0.19927536231884058" />
+        <entry key="..\:/Users/NEIL/Documents/Nhahangnonla/Nhahangnonla/app/src/main/res/layout/addstaff_layout.xml" value="0.19927536231884058" />
+        <entry key="..\:/Users/NEIL/Documents/Nhahangnonla/Nhahangnonla/app/src/main/res/layout/addtable_layout.xml" value="0.19927536231884058" />
+        <entry key="..\:/Users/NEIL/Documents/Nhahangnonla/Nhahangnonla/app/src/main/res/layout/amount_menu_layout.xml" value="0.19927536231884058" />
+        <entry key="..\:/Users/NEIL/Documents/Nhahangnonla/Nhahangnonla/app/src/main/res/layout/custom_layout_displaycategory.xml" value="0.4" />
+        <entry key="..\:/Users/NEIL/Documents/Nhahangnonla/Nhahangnonla/app/src/main/res/layout/custom_layout_displaymenu.xml" value="0.4" />
+        <entry key="..\:/Users/NEIL/Documents/Nhahangnonla/Nhahangnonla/app/src/main/res/layout/custom_layout_displaystaff.xml" value="0.19927536231884058" />
+        <entry key="..\:/Users/NEIL/Documents/Nhahangnonla/Nhahangnonla/app/src/main/res/layout/custom_layout_displaystatistic.xml" value="0.19927536231884058" />
+        <entry key="..\:/Users/NEIL/Documents/Nhahangnonla/Nhahangnonla/app/src/main/res/layout/custom_layout_displaytable.xml" value="0.19927536231884058" />
+        <entry key="..\:/Users/NEIL/Documents/Nhahangnonla/Nhahangnonla/app/src/main/res/layout/custom_layout_paymentmenu.xml" value="0.4" />
+        <entry key="..\:/Users/NEIL/Documents/Nhahangnonla/Nhahangnonla/app/src/main/res/layout/detailstatistic_layout.xml" value="0.264" />
+        <entry key="..\:/Users/NEIL/Documents/Nhahangnonla/Nhahangnonla/app/src/main/res/layout/displaycategory_layout.xml" value="0.176" />
+        <entry key="..\:/Users/NEIL/Documents/Nhahangnonla/Nhahangnonla/app/src/main/res/layout/displayhome_layout.xml" value="0.2" />
+        <entry key="..\:/Users/NEIL/Documents/Nhahangnonla/Nhahangnonla/app/src/main/res/layout/displaymenu_layout.xml" value="0.264" />
+        <entry key="..\:/Users/NEIL/Documents/Nhahangnonla/Nhahangnonla/app/src/main/res/layout/displaystaff_layout.xml" value="0.19927536231884058" />
+        <entry key="..\:/Users/NEIL/Documents/Nhahangnonla/Nhahangnonla/app/src/main/res/layout/displaystatistic_layout.xml" value="0.19927536231884058" />
+        <entry key="..\:/Users/NEIL/Documents/Nhahangnonla/Nhahangnonla/app/src/main/res/layout/displaytable_layout.xml" value="0.19927536231884058" />
+        <entry key="..\:/Users/NEIL/Documents/Nhahangnonla/Nhahangnonla/app/src/main/res/layout/edittable_layout.xml" value="0.19927536231884058" />
+        <entry key="..\:/Users/NEIL/Documents/Nhahangnonla/Nhahangnonla/app/src/main/res/layout/home_layout.xml" value="0.19927536231884058" />
+        <entry key="..\:/Users/NEIL/Documents/Nhahangnonla/Nhahangnonla/app/src/main/res/layout/login_layout.xml" value="0.19927536231884058" />
+        <entry key="..\:/Users/NEIL/Documents/Nhahangnonla/Nhahangnonla/app/src/main/res/layout/menu_navigation_header.xml" value="0.19927536231884058" />
+        <entry key="..\:/Users/NEIL/Documents/Nhahangnonla/Nhahangnonla/app/src/main/res/layout/payment_layout.xml" value="0.19927536231884058" />
+        <entry key="..\:/Users/NEIL/Documents/Nhahangnonla/Nhahangnonla/app/src/main/res/layout/register2nd_layout.xml" value="0.19927536231884058" />
+        <entry key="..\:/Users/NEIL/Documents/Nhahangnonla/Nhahangnonla/app/src/main/res/layout/register_layout.xml" value="0.264" />
+        <entry key="..\:/Users/NEIL/Documents/Nhahangnonla/Nhahangnonla/app/src/main/res/layout/splash_layout.xml" value="0.2" />
+        <entry key="..\:/Users/NEIL/Documents/Nhahangnonla/Nhahangnonla/app/src/main/res/layout/welcome_layout.xml" value="0.36509635974304067" />
+        <entry key="..\:/Users/NEIL/Downloads/QLappdrink (1)/OrderDrinkApp/app/src/main/res/layout/addcategory_layout.xml" value="0.4" />
+        <entry key="..\:/Users/NEIL/Downloads/QLappdrink (1)/OrderDrinkApp/app/src/main/res/layout/addmenu_layout.xml" value="0.4" />
+        <entry key="..\:/Users/NEIL/Downloads/QLappdrink (1)/OrderDrinkApp/app/src/main/res/layout/addstaff_layout.xml" value="0.536" />
+        <entry key="..\:/Users/NEIL/Downloads/QLappdrink (1)/OrderDrinkApp/app/src/main/res/layout/addtable_layout.xml" value="0.536" />
+        <entry key="..\:/Users/NEIL/Downloads/QLappdrink (1)/OrderDrinkApp/app/src/main/res/layout/amount_menu_layout.xml" value="0.2" />
+        <entry key="..\:/Users/NEIL/Downloads/QLappdrink (1)/OrderDrinkApp/app/src/main/res/layout/custom_layout_displaycategory.xml" value="0.4" />
+        <entry key="..\:/Users/NEIL/Downloads/QLappdrink (1)/OrderDrinkApp/app/src/main/res/layout/custom_layout_displaymenu.xml" value="0.4" />
+        <entry key="..\:/Users/NEIL/Downloads/QLappdrink (1)/OrderDrinkApp/app/src/main/res/layout/custom_layout_displaystaff.xml" value="0.4" />
+        <entry key="..\:/Users/NEIL/Downloads/QLappdrink (1)/OrderDrinkApp/app/src/main/res/layout/custom_layout_displaystatistic.xml" value="0.128125" />
+        <entry key="..\:/Users/NEIL/Downloads/QLappdrink (1)/OrderDrinkApp/app/src/main/res/layout/custom_layout_displaytable.xml" value="0.128125" />
+        <entry key="..\:/Users/NEIL/Downloads/QLappdrink (1)/OrderDrinkApp/app/src/main/res/layout/custom_layout_paymentmenu.xml" value="0.128125" />
+        <entry key="..\:/Users/NEIL/Downloads/QLappdrink (1)/OrderDrinkApp/app/src/main/res/layout/detailstatistic_layout.xml" value="0.128125" />
+        <entry key="..\:/Users/NEIL/Downloads/QLappdrink (1)/OrderDrinkApp/app/src/main/res/layout/displaycategory_layout.xml" value="0.128125" />
+        <entry key="..\:/Users/NEIL/Downloads/QLappdrink (1)/OrderDrinkApp/app/src/main/res/layout/displayhome_layout.xml" value="0.4" />
+        <entry key="..\:/Users/NEIL/Downloads/QLappdrink (1)/OrderDrinkApp/app/src/main/res/layout/displaymenu_layout.xml" value="0.128125" />
+        <entry key="..\:/Users/NEIL/Downloads/QLappdrink (1)/OrderDrinkApp/app/src/main/res/layout/displaystaff_layout.xml" value="0.128125" />
+        <entry key="..\:/Users/NEIL/Downloads/QLappdrink (1)/OrderDrinkApp/app/src/main/res/layout/displaystatistic_layout.xml" value="0.128125" />
+        <entry key="..\:/Users/NEIL/Downloads/QLappdrink (1)/OrderDrinkApp/app/src/main/res/layout/displaytable_layout.xml" value="0.128125" />
+        <entry key="..\:/Users/NEIL/Downloads/QLappdrink (1)/OrderDrinkApp/app/src/main/res/layout/edittable_layout.xml" value="0.128125" />
+        <entry key="..\:/Users/NEIL/Downloads/QLappdrink (1)/OrderDrinkApp/app/src/main/res/layout/home_layout.xml" value="0.3455571227080395" />
+        <entry key="..\:/Users/NEIL/Downloads/QLappdrink (1)/OrderDrinkApp/app/src/main/res/layout/login_layout.xml" value="0.264" />
+        <entry key="..\:/Users/NEIL/Downloads/QLappdrink (1)/OrderDrinkApp/app/src/main/res/layout/menu_navigation_header.xml" value="0.152" />
+        <entry key="..\:/Users/NEIL/Downloads/QLappdrink (1)/OrderDrinkApp/app/src/main/res/layout/payment_layout.xml" value="0.128125" />
+        <entry key="..\:/Users/NEIL/Downloads/QLappdrink (1)/OrderDrinkApp/app/src/main/res/layout/register2nd_layout.xml" value="0.128125" />
+        <entry key="..\:/Users/NEIL/Downloads/QLappdrink (1)/OrderDrinkApp/app/src/main/res/layout/register_layout.xml" value="0.128125" />
+        <entry key="..\:/Users/NEIL/Downloads/QLappdrink (1)/OrderDrinkApp/app/src/main/res/layout/splash_layout.xml" value="0.536" />
+        <entry key="..\:/Users/NEIL/Downloads/QLappdrink (1)/OrderDrinkApp/app/src/main/res/layout/welcome_layout.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
